@@ -12,3 +12,7 @@ gulp/uedocConfig.js
 
 # doc template
 gulp/ydoc_template
+
+# old version
+lib
+usage
